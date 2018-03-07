@@ -6,3 +6,4 @@ git commit -m "$NAME"
 git push origin master
 echo "Pushing Finished"
 echo "Press Enter to continue"
+read PAUSE
